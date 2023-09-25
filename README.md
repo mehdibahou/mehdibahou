@@ -1,11 +1,6 @@
 <h1 align="center"> I'm El Mehdi Bhaou </h1>
 
 <h3 align="center">Data / Software Engineering Student | Cloud ☁️ Enthousiast </h3>
-<br>
-
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=mehdibahou&style=for-the-badge&color=0e75b6" />
-<p>
 
 <br>
 <h2 align="left">Github Stats</h2>
