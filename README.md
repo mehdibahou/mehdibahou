@@ -7,12 +7,6 @@
    <img src="https://komarev.com/ghpvc/?username=kobeerose&style=for-the-badge&color=0e75b6" />
 <p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my portfolio <a href="#" target="_blank">👀</a>
-- 🌱 I’m currently learning **Data Modeling** and **System Design**
-- 📫 How to reach me **tahaelghabi@gmail.com**
-
 <br>
 <h2 align="left">Github Stats</h2>
 
