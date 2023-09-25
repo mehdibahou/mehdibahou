@@ -11,7 +11,7 @@
 <h2 align="left">Github Stats</h2>
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=mehdibahou&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehdibahou&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)]
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehdibahou&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)
 
 <p align="left">
    <a href="https://www.linkedin.com/in/el-mehdi-bahou-104217237/" target="_blank">
