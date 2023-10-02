@@ -20,7 +20,7 @@
 
 <h4>Software Development </h4>
 
-<img src="https://img.shields.io/badge/React-000.svg?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Gatsby-000.svg?style=for-the-badge&logo=gatsby&logoColor=613091"/> <img src="https://img.shields.io/badge/Tailwind_CSS-000.svg?style=for-the-badge&logo=tailwind-css"/> <img src="https://img.shields.io/badge/Sass-000.svg?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/Adobe%20AI-000.svg?style=for-the-badge&logo=adobe%20illustrator"/>
+<img src="https://img.shields.io/badge/React-000.svg?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Nextjs-000.svg?style=for-the-badge&logo=nextjs&logoColor=613091"/> <img src="https://img.shields.io/badge/Tailwind_CSS-000.svg?style=for-the-badge&logo=tailwind-css"/> <img src="https://img.shields.io/badge/Sass-000.svg?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/Adobe%20AI-000.svg?style=for-the-badge&logo=adobe%20illustrator"/>
 <br></br>
 <img src="https://img.shields.io/badge/Node.js-000.svg?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/Django-000.svg?style=for-the-badge&logo=django&logoColor=29a071"/> <img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql"/> <img src="https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb"/>  
 <br></br>
