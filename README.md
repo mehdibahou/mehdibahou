@@ -3,13 +3,16 @@
 <h3 align="center">Data / Software Engineering Student | Cloud ☁️ Enthousiast </h3>
 
 <br>
-<h2 align="left">Github Stats</h2>
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio <a href="#" target="_blank">👀</a>
 - 🌱 I’m currently learning **Cloud Crchitectures** and **System Design**
 - 📫 How to reach me **elmehdipay@gmail.com**
+- 
+<br>
+
+<h2 align="left">Github Stats</h2>
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=mehdibahou&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehdibahou&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)
