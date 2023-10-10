@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio <a href="#" target="_blank">👀</a>
-- 🌱 I’m currently learning **Cloud Crchitectures** and **System Design**
+- 🌱 I’m currently learning **Cloud Architectures** and **System Design**
 - 📫 How to reach me **elmehdipay@gmail.com**
 - 
 <br>
@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="https://img.shields.io/badge/vercel-000.svg?style=for-the-badge&logo=vercel&logoColor=white"/><img src="https://img.shields.io/badge/WordPress-000.svg?style=for-the-badge&logo=WordPress"/><img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud"/>
-<img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud"/><img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/Digital_Ocean-000?style=for-the-badge&logo=DigitalOcean"/><img src="https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=23bdae"/><img src="https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku&logoColor=625d9d"/><img src="https://img.shields.io/badge/nginx-000.svg?style=for-the-badge&logo=nginx&logoColor=009639"/>
+<img src="https://img.shields.io/badge/vercel-000.svg?style=for-the-badge&logo=vercel&logoColor=white"/><img src="https://img.shields.io/badge/WordPress-000.svg?style=for-the-badge&logo=WordPress"/><img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud"/><img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/Digital_Ocean-000?style=for-the-badge&logo=DigitalOcean"/><img src="https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=23bdae"/><img src="https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku&logoColor=625d9d"/><img src="https://img.shields.io/badge/nginx-000.svg?style=for-the-badge&logo=nginx&logoColor=009639"/>
 
 <br>
 
